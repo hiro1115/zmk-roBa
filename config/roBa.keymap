@@ -77,7 +77,7 @@
             bindings = <
 &kp Q               &kp W         &kp E             &kp R                        &kp T                                                                   &kp Y        &kp U  &kp I      &kp O    &kp P
 &kp A               &kp S         &kp D             &kp F                        &kp G        &lt 4 LS(LG(NUMBER_4))         &kp COLON                   &kp H        &kp J  &kp K      &kp L    &lt 5 MINUS
-&mt LEFT_CONTROL Z  &kp X         &kp C             &kp V                        &kp B        &lt 5 RIGHT_BRACKET            &lt 6 SLASH                 &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
+&mt LEFT_CONTROL Z  &kp X         &kp C             &kp V                        &kp B        &lt 5 RIGHT_BRACKET            &lt 6 BACKSLASH             &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
 &kp LEFT_SHIFT      &kp LEFT_ALT  &kp LEFT_COMMAND  &lt_to_layer_0 1 LANGUAGE_2  &lt 2 SPACE  &lt_to_layer_0 3 LANGUAGE_1    &lt_to_layer_0 1 BACKSPACE  &lt 2 ENTER                             &kp DEL
             >;
 
